@@ -1,14 +1,6 @@
-# ATTRIBUTION.md: A Reciprocity Convention for AI-Mediated Open Source Reuse
+# ATTRIBUTION.md
 
-**Protocol Identifier:** `attribution-protocol`
-
-**Canonical URL:** [https://attribution.md](https://attribution.md)
-
-**Author:** Attribution Protocol Maintainers
-
-**Status:** Draft (v0.1)
-
-**Date:** February 2026
+*Social recognition for open source in the age of AI agents*
 
 ## Abstract
 
